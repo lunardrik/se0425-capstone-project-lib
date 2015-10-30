@@ -1,0 +1,926 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="36" />
+      <Item value="static" priority="5" />
+      <Item value="if" priority="44" />
+      <Item value="_con" priority="10" />
+      <Item value="Broken" priority="1" />
+      <Item value="ConnectionManager`0" priority="0" />
+      <Item value="SqlConnection" priority="1" />
+      <Item value="return" priority="57" />
+      <Item value="else" priority="2" />
+      <Item value="AuthorDTO`0" priority="0" />
+      <Item value="authorDTO" priority="7" />
+      <Item value="new" priority="42" />
+      <Item value="AuthorDTO" priority="0" />
+      <Item value="string" priority="26" />
+      <Item value="SqlConnection`0" priority="1" />
+      <Item value="Common" priority="0" />
+      <Item value="cmd" priority="4" />
+      <Item value="StoredProcedure" priority="0" />
+      <Item value="Int" priority="1" />
+      <Item value="reader" priority="12" />
+      <Item value="while" priority="2" />
+      <Item value="DateTime`0" priority="17" />
+      <Item value="try" priority="15" />
+      <Item value="null" priority="56" />
+      <Item value="spName" priority="0" />
+      <Item value="List" priority="23" />
+      <Item value="for" priority="5" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="SqlDbType`0" priority="2" />
+      <Item value="parameters" priority="2" />
+      <Item value="i" priority="14" />
+      <Item value="parameterName" priority="0" />
+      <Item value="values" priority="0" />
+      <Item value="Dictionary&lt;string,SqlDbType&gt;" priority="0" />
+      <Item value="Binary" priority="0" />
+      <Item value="List&lt;object&gt;" priority="0" />
+      <Item value="throw" priority="1" />
+      <Item value="e" priority="4" />
+      <Item value="AuthorDAO`0" priority="0" />
+      <Item value="authorDao" priority="1" />
+      <Item value="AuthorDAO" priority="0" />
+      <Item value="Con" priority="0" />
+      <Item value="conStr" priority="0" />
+      <Item value="prop" priority="3" />
+      <Item value="void" priority="14" />
+      <Item value="DataSource" priority="1" />
+      <Item value="Database" priority="0" />
+      <Item value="ConfigurationManager`0" priority="2" />
+      <Item value="UserId" priority="0" />
+      <Item value="Password" priority="0" />
+      <Item value="Options`0" priority="5" />
+      <Item value="ApplicationException`0" priority="0" />
+      <Item value="this" priority="5" />
+      <Item value="AppDomain`0" priority="0" />
+      <Item value="Environment`0" priority="0" />
+      <Item value="using" priority="5" />
+      <Item value="System" priority="3" />
+      <Item value="Windows.Forms" priority="1" />
+      <Item value="Application`0" priority="0" />
+      <Item value="BasicConfigurator`0" priority="0" />
+      <Item value="Program`0" priority="0" />
+      <Item value="Log`0" priority="1" />
+      <Item value="abgCatalogue" priority="7" />
+      <Item value="object" priority="2" />
+      <Item value="grcISBN" priority="0" />
+      <Item value="CatalogueDTO`0" priority="5" />
+      <Item value="ISBN" priority="3" />
+      <Item value="CatalogueDTO" priority="2" />
+      <Item value="gridControl1" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="Image" priority="2" />
+      <Item value="Image`0" priority="3" />
+      <Item value="value" priority="3" />
+      <Item value="Img" priority="1" />
+      <Item value="ValueType`0" priority="0" />
+      <Item value="_image" priority="1" />
+      <Item value="CatalogueBUS" priority="1" />
+      <Item value="bus" priority="1" />
+      <Item value="List&lt;string&gt;" priority="1" />
+      <Item value="foreach" priority="7" />
+      <Item value="List&lt;CatalogueDTO&gt;" priority="0" />
+      <Item value="lst" priority="1" />
+      <Item value="Executing" priority="0" />
+      <Item value="GetConnectionString`0" priority="0" />
+      <Item value="var" priority="16" />
+      <Item value="ccon" priority="0" />
+      <Item value="override" priority="2" />
+      <Item value="AuthorName" priority="0" />
+      <Item value="CategoryName" priority="0" />
+      <Item value="PublisherName" priority="0" />
+      <Item value="private" priority="27" />
+      <Item value="AuthorOfBookDTO`0" priority="0" />
+      <Item value="_authorList" priority="2" />
+      <Item value="Authors" priority="0" />
+      <Item value="str" priority="0" />
+      <Item value="au" priority="0" />
+      <Item value="false" priority="17" />
+      <Item value="dlgImage" priority="1" />
+      <Item value="pedCatalogueImage" priority="1" />
+      <Item value="BookInfoForm`0" priority="1" />
+      <Item value="String`0" priority="2" />
+      <Item value="_parrent" priority="0" />
+      <Item value="parent" priority="0" />
+      <Item value="CatalogueBUS`0" priority="0" />
+      <Item value="catalogueBus" priority="1" />
+      <Item value="_catalogue" priority="0" />
+      <Item value="isbn" priority="5" />
+      <Item value="catalogueDto" priority="12" />
+      <Item value="txtISBN" priority="0" />
+      <Item value="txtTitle" priority="2" />
+      <Item value="txtPublisher" priority="0" />
+      <Item value="txtYear" priority="0" />
+      <Item value="txtPrice" priority="0" />
+      <Item value="txtLanguage" priority="0" />
+      <Item value="txtNumberOfCopy" priority="0" />
+      <Item value="txtAvailableCopy" priority="0" />
+      <Item value="txtExpandLimit" priority="0" />
+      <Item value="txtExpandDateLimit" priority="0" />
+      <Item value="rtfShortDescription" priority="0" />
+      <Item value="overDate" priority="1" />
+      <Item value="cboStatus" priority="9" />
+      <Item value="RentalStatus`0" priority="16" />
+      <Item value="Enum`0" priority="5" />
+      <Item value="EnumHelper`0" priority="7" />
+      <Item value="typeof" priority="2" />
+      <Item value="listStatus" priority="3" />
+      <Item value="item" priority="0" />
+      <Item value="_feature" priority="26" />
+      <Item value="bool" priority="16" />
+      <Item value="rentalBus" priority="3" />
+      <Item value="RentalDTO`0" priority="7" />
+      <Item value="rentalDto" priority="30" />
+      <Item value="catch" priority="5" />
+      <Item value="Exception`0" priority="6" />
+      <Item value="copyBus" priority="10" />
+      <Item value="_rental" priority="16" />
+      <Item value="txtFine" priority="0" />
+      <Item value="dteReturnDate" priority="0" />
+      <Item value="_registerRentalForm" priority="15" />
+      <Item value="ExpandRentalForm`0" priority="1" />
+      <Item value="Feature`0" priority="11" />
+      <Item value="feature" priority="9" />
+      <Item value="InitializeComponent`0" priority="0" />
+      <Item value="InitializeData`0" priority="3" />
+      <Item value="txtBarcode" priority="0" />
+      <Item value="txtUser" priority="0" />
+      <Item value="dteIssueDate" priority="5" />
+      <Item value="dteDueDateOld" priority="2" />
+      <Item value="dteDueDateNew" priority="1" />
+      <Item value="MessageBox`0" priority="7" />
+      <Item value="Constants`0" priority="10" />
+      <Item value="OK" priority="2" />
+      <Item value="MessageBoxIcon`0" priority="1" />
+      <Item value="Dispose`0" priority="6" />
+      <Item value="ValidateData`0" priority="2" />
+      <Item value="msg" priority="4" />
+      <Item value="Exclamation" priority="0" />
+      <Item value="CopyDTO`0" priority="3" />
+      <Item value="copyDto" priority="9" />
+      <Item value="catalogeBus" priority="6" />
+      <Item value="catalogeDto" priority="8" />
+      <Item value="Status" priority="3" />
+      <Item value="StatusFriendly" priority="0" />
+      <Item value="BookRegisterDTO`0" priority="8" />
+      <Item value="fi" priority="0" />
+      <Item value="Refresh`0" priority="2" />
+      <Item value="GetSelectedRegister`0" priority="0" />
+      <Item value="GetSelectedRequest`0" priority="0" />
+      <Item value="selectedReg" priority="1" />
+      <Item value="NEW" priority="1" />
+      <Item value="MessageBoxButtons`0" priority="0" />
+      <Item value="Information" priority="0" />
+      <Item value="barBtnRegisterRental_ItemClick`0" priority="0" />
+      <Item value="sender" priority="0" />
+      <Item value="pageRegisterRental" priority="1" />
+      <Item value="ribbon" priority="2" />
+      <Item value="FocusRentalPage`0" priority="2" />
+      <Item value="selectedRental" priority="2" />
+      <Item value="btnRefresh" priority="1" />
+      <Item value="MainForm`0" priority="4" />
+      <Item value="mainForm" priority="3" />
+      <Item value="_mainForm" priority="3" />
+      <Item value="_listRegister" priority="0" />
+      <Item value="_listRental" priority="5" />
+      <Item value="FISNISHED" priority="0" />
+      <Item value="switch" priority="1" />
+      <Item value="case" priority="2" />
+      <Item value="AddRental`0" priority="1" />
+      <Item value="RentalDTO" priority="0" />
+      <Item value="registerDto" priority="24" />
+      <Item value="in" priority="1" />
+      <Item value="listCopy" priority="1" />
+      <Item value="copy" priority="1" />
+      <Item value="break" priority="2" />
+      <Item value="listAvailableCopy" priority="3" />
+      <Item value="List&lt;CopyDTO&gt;" priority="0" />
+      <Item value="#region" priority="0" />
+      <Item value="UserDTO`0" priority="11" />
+      <Item value="userDto" priority="22" />
+      <Item value="userBus" priority="5" />
+      <Item value="userId" priority="3" />
+      <Item value="_userDao" priority="0" />
+      <Item value="password" priority="1" />
+      <Item value="true" priority="6" />
+      <Item value="ValidateUser`0" priority="1" />
+      <Item value="GetAvailableCopy`0" priority="0" />
+      <Item value="status" priority="1" />
+      <Item value="listRental" priority="0" />
+      <Item value="grdRental" priority="4" />
+      <Item value="Focus`0" priority="1" />
+      <Item value="ReloadDatabase`0" priority="1" />
+      <Item value="CopyStatus`0" priority="4" />
+      <Item value="int" priority="17" />
+      <Item value="Feature" priority="2" />
+      <Item value="txtUsername" priority="3" />
+      <Item value="rental" priority="1" />
+      <Item value="expandCount" priority="1" />
+      <Item value="dteDueDate" priority="0" />
+      <Item value="float" priority="0" />
+      <Item value="statusFine" priority="1" />
+      <Item value="overDueFine" priority="0" />
+      <Item value="listUser" priority="1" />
+      <Item value="_listUser" priority="1" />
+      <Item value="grdUser" priority="1" />
+      <Item value="UserManagementForm`0" priority="0" />
+      <Item value="_userForm" priority="4" />
+      <Item value="pageUser" priority="0" />
+      <Item value="GetSelectedUser`0" priority="1" />
+      <Item value="selectedUser" priority="12" />
+      <Item value="txtUserID" priority="4" />
+      <Item value="txtRole" priority="0" />
+      <Item value="txtAddress" priority="2" />
+      <Item value="txtEmail" priority="2" />
+      <Item value="txtIDSN" priority="2" />
+      <Item value="txtPhone" priority="2" />
+      <Item value="dteBirthday" priority="1" />
+      <Item value="dteExpireDate" priority="2" />
+      <Item value="UserEditForm`0" priority="3" />
+      <Item value="_selectedUser" priority="12" />
+      <Item value="userEditForm" priority="1" />
+      <Item value="Close`0" priority="2" />
+      <Item value="InitializeControlStatus`0" priority="0" />
+      <Item value="_isInserting" priority="0" />
+      <Item value="cboRole" priority="7" />
+      <Item value="RoleDTO`0" priority="7" />
+      <Item value="role" priority="4" />
+      <Item value="roleIdTmp" priority="0" />
+      <Item value="RoleDAO`0" priority="0" />
+      <Item value="_roleDao" priority="1" />
+      <Item value="_roleBus" priority="2" />
+      <Item value="RoleBUS`0" priority="0" />
+      <Item value="list" priority="0" />
+      <Item value="List&lt;RoleDTO&gt;" priority="0" />
+      <Item value="roleId" priority="2" />
+      <Item value="roleDto" priority="1" />
+      <Item value="UserStatus`0" priority="2" />
+      <Item value="user" priority="2" />
+      <Item value="statusTemp" priority="0" />
+      <Item value="result" priority="2" />
+      <Item value="EditUser`0" priority="0" />
+      <Item value="NPOI" priority="2" />
+      <Item value="HSSF" priority="1" />
+      <Item value="UserModel" priority="1" />
+      <Item value="HSSFCell`0" priority="1" />
+      <Item value="IO" priority="2" />
+      <Item value="Compression" priority="0" />
+      <Item value="Data" priority="0" />
+      <Item value="Pipes" priority="0" />
+      <Item value="FileStream`0" priority="0" />
+      <Item value="file" priority="1" />
+      <Item value="HSSFWorkbook`0" priority="0" />
+      <Item value="HSSFWorkbook" priority="0" />
+      <Item value="wb" priority="0" />
+      <Item value="data" priority="6" />
+      <Item value="HSSFSheet`0" priority="0" />
+      <Item value="sheet" priority="4" />
+      <Item value="SS" priority="0" />
+      <Item value="ISheet`0" priority="0" />
+      <Item value="IRow`0" priority="0" />
+      <Item value="row" priority="9" />
+      <Item value="ICell`0" priority="0" />
+      <Item value="cell" priority="5" />
+      <Item value="CellType`0" priority="1" />
+      <Item value="List&lt;List&lt;HSSFCell&gt;&gt;" priority="1" />
+      <Item value="List&lt;HSSFCell&gt;" priority="0" />
+      <Item value="rowData" priority="2" />
+      <Item value="default" priority="0" />
+      <Item value="DateUtil`0" priority="1" />
+      <Item value="fileStream" priority="4" />
+      <Item value="ParseExcelUtil`0" priority="0" />
+      <Item value="BookRegisterStatus`0" priority="1" />
+      <Item value="registerBus" priority="5" />
+      <Item value="continue" priority="2" />
+      <Item value="OpenFileDialog`0" priority="1" />
+      <Item value="openFileDialog" priority="12" />
+      <Item value="OpenFileDialog" priority="0" />
+      <Item value="FileStream" priority="0" />
+      <Item value="Open" priority="1" />
+      <Item value="FileAccess`0" priority="0" />
+      <Item value="RegisterImportForm`0" priority="0" />
+      <Item value="importForm" priority="1" />
+      <Item value="RegisterImportForm" priority="0" />
+      <Item value="txtFile" priority="1" />
+      <Item value="Read" priority="0" />
+      <Item value="StringBuilder`0" priority="0" />
+      <Item value="stringBuilder" priority="0" />
+      <Item value="StringBuilder" priority="0" />
+      <Item value="List&lt;BookRegisterDTO&gt;" priority="2" />
+      <Item value="listRegisterDto" priority="5" />
+      <Item value="InvalidTimeZoneException`0" priority="0" />
+      <Item value="Int16`0" priority="0" />
+      <Item value="register" priority="1" />
+      <Item value="registerDate" priority="0" />
+      <Item value="ThreadContext`0" priority="0" />
+      <Item value="Refresher`0" priority="6" />
+      <Item value="ThreadStaticAttribute`0" priority="1" />
+      <Item value="thread" priority="5" />
+      <Item value="NewRentalForm`0" priority="0" />
+      <Item value="Thread" priority="2" />
+      <Item value="ThreadStart" priority="2" />
+      <Item value="Thread`0" priority="4" />
+      <Item value="refresher" priority="4" />
+      <Item value="Refresher" priority="1" />
+      <Item value="_refreshInterval" priority="1" />
+      <Item value="RefreshInterval" priority="1" />
+      <Item value="_listNewRegister" priority="5" />
+      <Item value="listNewRegister" priority="0" />
+      <Item value="_threadRefresh" priority="1" />
+      <Item value="Console`0" priority="0" />
+      <Item value="lastRefreshTime" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="_lastUpdateTime" priority="2" />
+      <Item value="lastUpdateTime" priority="0" />
+      <Item value="_refresher" priority="2" />
+      <Item value="LastUpdateTime" priority="0" />
+      <Item value="alertControl" priority="2" />
+      <Item value="AlertControl" priority="0" />
+      <Item value="RegisterRentalForm`0" priority="1" />
+      <Item value="registerRentalForm" priority="1" />
+      <Item value="alertControl1" priority="0" />
+      <Item value="dt" priority="1" />
+      <Item value="List&lt;SearchBookResultDTO&gt;" priority="0" />
+      <Item value="NullReferenceException`0" priority="0" />
+      <Item value="dto" priority="0" />
+      <Item value="param1" priority="0" />
+      <Item value="param2" priority="0" />
+      <Item value="param3" priority="0" />
+      <Item value="sRow" priority="0" />
+      <Item value="eRow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="State" priority="2" />
+      <Item value="Open`0" priority="2" />
+      <Item value="Close`0" priority="0" />
+      <Item value="CreateCommand`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.ConnectionState">
+      <Item value="Closed" priority="0" />
+      <Item value="Open" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@LIB.Common.ConnectionManager">
+      <Item value="Con" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="CommandText" priority="0" />
+      <Item value="CommandType" priority="0" />
+      <Item value="Parameters" priority="0" />
+      <Item value="ExecuteReader`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameterCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameter">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataReader">
+      <Item value="NextResult`0" priority="0" />
+      <Item value="Read`0" priority="0" />
+      <Item value="Close`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.AuthorDTO">
+      <Item value="authorId" priority="0" />
+      <Item value="authorName" priority="0" />
+      <Item value="createdDate" priority="0" />
+      <Item value="lastUpdatedDate" priority="0" />
+      <Item value="AuthorName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+      <Item value="TryParse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="7" />
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.SqlDbType">
+      <Item value="Int" priority="3" />
+      <Item value="NVarChar" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Count" priority="0" />
+      <Item value="Keys" priority="1" />
+      <Item value="Values" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+KeyCollection">
+      <Item value="ElementAt`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.AuthorDAO">
+      <Item value="GetAuthorById`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="AppSettings" priority="4" />
+      <Item value="OpenExeConfiguration`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Specialized.NameValueCollection">
+      <Item value="Indexer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@LIB.Options">
+      <Item value="DataSource" priority="0" />
+      <Item value="Database" priority="0" />
+      <Item value="UserId" priority="0" />
+      <Item value="Password" priority="0" />
+      <Item value="SaveConfigurationOptions`0" priority="0" />
+      <Item value="LoadConfigurationOptions`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Indexer" priority="0" />
+      <Item value="EndsWith`0" priority="0" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="Length" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.AppSettingsSection">
+      <Item value="Settings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.KeyValueConfigurationElement">
+      <Item value="Value" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.Configuration">
+      <Item value="AppSettings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AppDomain">
+      <Item value="CurrentDomain" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="ExecutablePath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@log4net.Config.BasicConfigurator">
+      <Item value="Configure`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@LIB.Log">
+      <Item value="Logger" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:log4net.ILog">
+      <Item value="Error`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraGrid.Views.BandedGrid.AdvBandedGridView">
+      <Item value="AddNewRow`0" priority="0" />
+      <Item value="NewItemRowText" priority="0" />
+      <Item value="DataSource" priority="0" />
+      <Item value="DataController" priority="0" />
+      <Item value="RefreshData`0" priority="0" />
+      <Item value="DataRowCount" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.Data.BaseGridController">
+      <Item value="DataSource" priority="0" />
+      <Item value="SetDataSource`0" priority="0" />
+      <Item value="RefreshData`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraGrid.GridControl">
+      <Item value="DataSource" priority="5" />
+      <Item value="Refresh`0" priority="0" />
+      <Item value="EndUpdate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Image">
+      <Item value="FromFile`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Image">
+      <Item value="Size" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Width" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="8" />
+      <Item value="Aggregate`3" priority="0" />
+      <Item value="Count" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.CatalogueBUS">
+      <Item value="getCatalogueById`0" priority="0" />
+      <Item value="GetCatalogueById`0" priority="4" />
+      <Item value="UpdateCatalogue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.AuthorOfBookDTO">
+      <Item value="Author" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="ShowDialog`0" priority="2" />
+      <Item value="FileName" priority="3" />
+      <Item value="OpenFile`0" priority="0" />
+      <Item value="SafeFileName" priority="0" />
+      <Item value="CheckFileExists" priority="1" />
+      <Item value="CheckPathExists" priority="0" />
+      <Item value="DefaultExt" priority="0" />
+      <Item value="Filter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.PictureEdit">
+      <Item value="Image" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.CatalogueDTO">
+      <Item value="ISBN" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="Publisher" priority="1" />
+      <Item value="Year" priority="0" />
+      <Item value="Language" priority="0" />
+      <Item value="NumberOfCopies" priority="0" />
+      <Item value="AvailableCopies" priority="1" />
+      <Item value="ExpandLimit" priority="1" />
+      <Item value="ExpandDateLimit" priority="1" />
+      <Item value="ShortDescription" priority="0" />
+      <Item value="Img" priority="0" />
+      <Item value="Price" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="29" />
+      <Item value="ReadOnly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.PublisherDTO">
+      <Item value="PublisherName" priority="0" />
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RichTextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Items" priority="0" />
+      <Item value="DataSource" priority="6" />
+      <Item value="SelectedText" priority="0" />
+      <Item value="Text" priority="3" />
+      <Item value="SelectedItem" priority="0" />
+      <Item value="DisplayMember" priority="0" />
+      <Item value="ValueMember" priority="0" />
+      <Item value="SelectedValue" priority="0" />
+      <Item value="SelectedIndex" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Enum">
+      <Item value="GetNames`0" priority="0" />
+      <Item value="GetValues`0" priority="1" />
+      <Item value="Parse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@LIB.EnumHelper">
+      <Item value="GetDescription`0" priority="5" />
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@LIB.RentalStatus">
+      <Item value="NEW" priority="3" />
+      <Item value="DAMAGED" priority="1" />
+      <Item value="LOST" priority="1" />
+      <Item value="FISNISHED" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.RentalBUS">
+      <Item value="UpdateRental`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.RentalDTO">
+      <Item value="Status" priority="8" />
+      <Item value="Barcode" priority="6" />
+      <Item value="Fine" priority="0" />
+      <Item value="ReturnDate" priority="1" />
+      <Item value="Username" priority="0" />
+      <Item value="BookTitle" priority="0" />
+      <Item value="IssueDate" priority="1" />
+      <Item value="DueDate" priority="2" />
+      <Item value="UserId" priority="0" />
+      <Item value="ExpandCount" priority="5" />
+      <Item value="ExpandLimit" priority="3" />
+      <Item value="ExpandLimitDate" priority="0" />
+      <Item value="ExpandDateLimit" priority="0" />
+      <Item value="BookPrice" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.CopyBUS">
+      <Item value="UpdateCopy`0" priority="3" />
+      <Item value="GetCopyById`0" priority="0" />
+      <Item value="GetCopyByISBN`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Single">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DateTimePicker">
+      <Item value="Value" priority="16" />
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.RegisterRentalForm">
+      <Item value="MdiParent" priority="0" />
+      <Item value="Parent" priority="1" />
+      <Item value="Focus`0" priority="0" />
+      <Item value="RejectRequest`0" priority="0" />
+      <Item value="AddNewRental`0" priority="0" />
+      <Item value="ReturnBook`0" priority="0" />
+      <Item value="ExpandRental`0" priority="1" />
+      <Item value="Focused" priority="1" />
+      <Item value="Import`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control">
+      <Item value="Focus`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraEditors.TextEdit">
+      <Item value="Text" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="7" />
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.Feature">
+      <Item value="UpdateRental`0" priority="0" />
+      <Item value="ReturnBook`0" priority="0" />
+      <Item value="ExpandRental`0" priority="0" />
+      <Item value="AddRental`0" priority="0" />
+      <Item value="RejectRequest`0" priority="0" />
+      <Item value="Login`0" priority="0" />
+      <Item value="GetAllUser`0" priority="0" />
+      <Item value="UpdateUser`0" priority="1" />
+      <Item value="AddUser`0" priority="1" />
+      <Item value="GetAllRole`0" priority="0" />
+      <Item value="ImportRegister`0" priority="1" />
+      <Item value="GetNewRegister`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@LIB.Constants">
+      <Item value="RENTAL_EXPAND" priority="0" />
+      <Item value="SYSTEM_INFO" priority="4" />
+      <Item value="SYSTEM_ERROR" priority="3" />
+      <Item value="RENTAL_VALIDATE_EXPAND_DATE" priority="0" />
+      <Item value="USER_INVALID" priority="0" />
+      <Item value="REQUEST_SELECT" priority="0" />
+      <Item value="REQUEST_CAN_NOT_UPDATE" priority="0" />
+      <Item value="RENTAL_SELECT" priority="0" />
+      <Item value="RENTAL_LOCK" priority="0" />
+      <Item value="RENTAL_INSERT_OK" priority="1" />
+      <Item value="REQUEST_APPROVE" priority="0" />
+      <Item value="REQUEST_REJECT" priority="0" />
+      <Item value="RENTAL_EXPAND_LIMIT" priority="1" />
+      <Item value="RENTAL_EXPAND_OK" priority="0" />
+      <Item value="USER_EDIT_OK" priority="0" />
+      <Item value="USER_INSERT_OK" priority="0" />
+      <Item value="USER_VALIDATE_USERID" priority="0" />
+      <Item value="USER_VALIDATE_USERNAME" priority="0" />
+      <Item value="USER_VALIDATE_EMAIL" priority="0" />
+      <Item value="REQUEST_IMPORT" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxIcon">
+      <Item value="Information" priority="5" />
+      <Item value="Error" priority="5" />
+      <Item value="Asterisk" priority="0" />
+      <Item value="Exclamation" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="CompareTo`0" priority="1" />
+      <Item value="AddDays`0" priority="2" />
+      <Item value="DayOfYear" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.CopyDTO">
+      <Item value="ISBN" priority="0" />
+      <Item value="Status" priority="3" />
+      <Item value="Barcode" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Enum">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.BookRegisterDTO">
+      <Item value="Status" priority="1" />
+      <Item value="UserId" priority="6" />
+      <Item value="ISBN" priority="4" />
+      <Item value="RegisterDate" priority="1" />
+      <Item value="Note" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="OK" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.Ribbon.RibbonControl">
+      <Item value="SelectedPage" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.BarButtonItem">
+      <Item value="Enabled" priority="0" />
+      <Item value="Refresh`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ControlEventArgs">
+      <Item value="Control" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.MainForm">
+      <Item value="DisposeRegisterRentalForm`0" priority="0" />
+      <Item value="DisposeUserForm`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.UserBUS">
+      <Item value="GetUserById`0" priority="3" />
+      <Item value="Login`0" priority="0" />
+      <Item value="GetUserAll`0" priority="0" />
+      <Item value="InsertUser`0" priority="0" />
+      <Item value="UpdateUser`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.UserDTO">
+      <Item value="UserId" priority="2" />
+      <Item value="Password" priority="1" />
+      <Item value="Status" priority="4" />
+      <Item value="Username" priority="1" />
+      <Item value="RoleId" priority="3" />
+      <Item value="Address" priority="1" />
+      <Item value="Email" priority="1" />
+      <Item value="IDSN" priority="1" />
+      <Item value="Phone" priority="1" />
+      <Item value="Birthday" priority="1" />
+      <Item value="IssuedDate" priority="1" />
+      <Item value="ExpiredDate" priority="1" />
+      <Item value="RoleDescription" priority="1" />
+      <Item value="StatusFriendly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.UserDAO">
+      <Item value="GetByUserId`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@LIB.CopyStatus">
+      <Item value="NOT_AVAIABLE" priority="1" />
+      <Item value="AVAIABLE" priority="1" />
+      <Item value="LOST" priority="0" />
+      <Item value="DAMAGED" priority="0" />
+      <Item value="AVAILABLE" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.UserEditForm">
+      <Item value="ShowDialog`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.RoleDTO">
+      <Item value="RoleId" priority="2" />
+      <Item value="RoleDescription" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.RoleBUS">
+      <Item value="GetUserAll`0" priority="0" />
+      <Item value="GetRoleById`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.RoleDAO">
+      <Item value="GetById`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.UserManagementForm">
+      <Item value="AddUser`0" priority="0" />
+      <Item value="EditUser`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NPOI.HSSF.UserModel.HSSFWorkbook">
+      <Item value="GetSheet`0" priority="0" />
+      <Item value="GetSheetIndex`0" priority="0" />
+      <Item value="GetSheetAt`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NPOI.SS.UserModel.ISheet">
+      <Item value="LastRowNum" priority="1" />
+      <Item value="GetRowEnumerator`0" priority="0" />
+      <Item value="GetRow`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NPOI.SS.UserModel.IRow">
+      <Item value="Cells" priority="0" />
+      <Item value="GetEnumerator`0" priority="0" />
+      <Item value="LastCellNum" priority="0" />
+      <Item value="GetCell`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NPOI.SS.UserModel.ICell">
+      <Item value="NumericCellValue" priority="2" />
+      <Item value="StringCellValue" priority="2" />
+      <Item value="CellType" priority="1" />
+      <Item value="DateCellValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NPOI.SS.UserModel.CellType">
+      <Item value="STRING" priority="0" />
+      <Item value="NUMERIC" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NPOI.SS.UserModel.DateUtil">
+      <Item value="IsCellDateFormatted`0" priority="0" />
+      <Item value="GetExcelDate`0" priority="0" />
+      <Item value="GetJavaDate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@LIB.ParseExcelUtil">
+      <Item value="ReadExcelFile`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@LIB.BookRegisterStatus">
+      <Item value="NEW" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.BookRegisterBUS">
+      <Item value="InsertBookRegister`0" priority="1" />
+      <Item value="GetBookRegisterByPrimaryKey`0" priority="0" />
+      <Item value="GetBookRegisterByStatus`0" priority="0" />
+      <Item value="GetBookRegisterByRegisterDate`0" priority="0" />
+      <Item value="GetBookRegisterByCreatedDate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileAccess">
+      <Item value="Read" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.RegisterImportForm">
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="0" />
+      <Item value="AppendLine`0" priority="1" />
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.BookRegisterDAO">
+      <Item value="GetByPrimaryKey`0" priority="0" />
+      <Item value="GetByCreatedDate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@LIB.Refresher">
+      <Item value="_feature" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.Refresher">
+      <Item value="GetNetRequest`0" priority="1" />
+      <Item value="LastUpdateTime" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="1" />
+      <Item value="Abort`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DevExpress.XtraBars.Alerter.AlertControl">
+      <Item value="Show`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Rows" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowCollection">
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LIB.SearchBookDTO">
+      <Item value="Field1" priority="0" />
+      <Item value="Info1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:NewRentalForm.cs" caret="2858" fromTop="20" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:Common/f:Constants.cs" caret="2212" fromTop="27" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:UserDAO.cs" caret="10540" fromTop="0" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:BUS/f:UserBUS.cs" caret="622" fromTop="19" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:AuthorDAO.cs" caret="0" fromTop="0" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:Common/f:ParseExcelUtil.cs" caret="208" fromTop="9" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:RegisterImportForm.cs" caret="967" fromTop="2" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/d:Properties/f:licenses.licx" caret="0" fromTop="0" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:TestForm.Designer.cs" caret="603" fromTop="11" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:BUS/f:VariableBUS.cs" caret="408" fromTop="16" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DTO/f:RoleDTO.cs" caret="0" fromTop="0" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:Program.cs" caret="451" fromTop="19" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DTO/f:SearchRequestDTO.cs" caret="437" fromTop="22" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:BUS/f:SearchRequestBUS.cs" caret="476" fromTop="9" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:config.ini" caret="0" fromTop="0" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:MainForm.cs" caret="5942" fromTop="37" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DTO/f:BookRegisterDTO.cs" caret="373" fromTop="17" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/f:Feature.cs" caret="9593" fromTop="8" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:BookRegisterDAO.cs" caret="2047" fromTop="25" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:BUS/f:BookRegisterBUS.cs" caret="1060" fromTop="1" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:LoginForm.resx" caret="5825" fromTop="24" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:LoginForm.Designer.cs" caret="1513" fromTop="17" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:LoginForm.cs" caret="364" fromTop="2" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:RegisterRentalForm.Designer.cs" caret="0" fromTop="0" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:RegisterRentalForm.cs" caret="892" fromTop="15" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:Refresher.cs" caret="1447" fromTop="17" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:PublisherManagementForm.cs" caret="1374" fromTop="2" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:Common/f:ConnectionManager.cs" caret="2263" fromTop="14" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:BUS/f:SearchBookBUS.cs" caret="1245" fromTop="23" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:SearchBookDAO.cs" caret="7471" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:Refresher.cs" caret="1240" fromTop="19" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/f:Feature.cs" caret="9936" fromTop="17" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:BookRegisterDAO.cs" caret="13688" fromTop="12" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:BookRegisterDAO.cs" caret="19772" fromTop="16" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:BookRegisterDAO.cs" caret="17725" fromTop="2" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:BookRegisterDAO.cs" caret="17946" fromTop="8" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:BUS/f:BookRegisterBUS.cs" caret="1164" fromTop="15" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:BUS/f:BookRegisterBUS.cs" caret="1879" fromTop="23" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/f:Feature.cs" caret="9617" fromTop="17" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:Refresher.cs" caret="889" fromTop="4" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:RegisterRentalForm.cs" caret="1021" fromTop="19" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:Refresher.cs" caret="214" fromTop="9" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:Refresher.cs" caret="569" fromTop="18" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:RegisterRentalForm.Designer.cs" caret="33670" fromTop="8" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:Refresher.cs" caret="1447" fromTop="17" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:Refresher.cs" caret="1665" fromTop="17" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:RegisterRentalForm.cs" caret="838" fromTop="13" />
+      <File id="258B8B0B-0AF6-4844-9A03-E667D0689DCD/f:PublisherManagementForm.cs" caret="4875" fromTop="2" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:BUS/f:SearchBookBUS.cs" caret="1355" fromTop="33" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:BUS/f:SearchBookBUS.cs" caret="151" fromTop="6" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:BUS/f:SearchBookBUS.cs" caret="2272" fromTop="20" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:SearchBookDAO.cs" caret="16603" fromTop="3" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:SearchBookDAO.cs" caret="16603" fromTop="24" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:SearchBookDAO.cs" caret="16603" fromTop="24" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:SearchBookDAO.cs" caret="16603" fromTop="20" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:SearchBookDAO.cs" caret="16603" fromTop="14" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:SearchBookDAO.cs" caret="16603" fromTop="29" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:SearchBookDAO.cs" caret="8557" fromTop="29" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:SearchBookDAO.cs" caret="7416" fromTop="10" />
+      <File id="446219B6-2905-4481-91F2-E82E975AD329/d:SourceCode/d:DAO/f:SearchBookDAO.cs" caret="10647" fromTop="26" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

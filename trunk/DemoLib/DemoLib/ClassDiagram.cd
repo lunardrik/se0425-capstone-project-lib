@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApplication1.RentalDTO" Collapsed="true">
+    <Position X="0.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAEAAEgACAAAAAAAAgAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SourceCode\DTO\RentalDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.RentalDAO">
+    <Position X="2.75" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAgAAAAAAAAAAAAgAAAAAAAAAEAAA=</HashCode>
+      <FileName>SourceCode\DAO\RentalDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.RentalBUS">
+    <Position X="5.75" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAIAAAEAAAAAAAAAAAAAAAAAAAAQCAEAAAA=</HashCode>
+      <FileName>SourceCode\BUS\RentalBUS.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="RentalDAO" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WindowsFormsApplication1.BookRegisterDTO" Collapsed="true">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEASAAAAAAAAAAAAgAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>SourceCode\DTO\BookRegisterDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.BookRegisterDAO">
+    <Position X="2.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAgAAAAAAAAAEAAA=</HashCode>
+      <FileName>SourceCode\DAO\BookRegisterDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.BookRegisterBUS">
+    <Position X="6.25" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAIAAIAAAAAAA=</HashCode>
+      <FileName>SourceCode\BUS\BookRegisterBUS.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="BookRegisterDAO" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="WindowsFormsApplication1.UserDTO" Collapsed="true">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgIEBCAAAAAAAQAAAAgAAAAIAAACAAAAIAAAAAA=</HashCode>
+      <FileName>SourceCode\DTO\UserDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.UserDAO">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAgAAAAAAAAAEAAA=</HashCode>
+      <FileName>SourceCode\DAO\UserDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.UserBUS">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAIAAAAQAAAAAAEAAAA=</HashCode>
+      <FileName>SourceCode\BUS\UserBUS.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="UserDAO" />
+    </ShowAsAssociation>
+  </Class>
+  <Enum Name="WindowsFormsApplication1.RentalStatus" Collapsed="true">
+    <Position X="0.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAACAAEAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SourceCode\DTO\RentalStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsFormsApplication1.BookRegisterStatus" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAACACAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SourceCode\DTO\BookRegisterStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsFormsApplication1.UserStatus" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>SourceCode\DTO\UserStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

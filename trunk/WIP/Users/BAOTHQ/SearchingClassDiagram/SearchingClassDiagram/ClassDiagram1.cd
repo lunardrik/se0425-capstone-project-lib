@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SearchingClassDiagram.BUS.SearchUserBUS">
+    <Position X="3.25" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAgAAAAAAAAAAAAAABAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>BUS\SearchUserBUS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SearchingClassDiagram.BUS.SearchBookBUS">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABACAAAkAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BUS\SearchBookBUS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SearchingClassDiagram.BUS.SearchRentalBUS">
+    <Position X="3" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAIAAAAAABAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>BUS\SearchRentalBUS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SearchingClassDiagram.BUS.SearchRequestBUS">
+    <Position X="0.5" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAQAAAAAA=</HashCode>
+      <FileName>BUS\SearchRequestBUS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

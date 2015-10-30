@@ -1,0 +1,21 @@
+USE [LIB]
+GO
+
+/****** Object:  StoredProcedure [dbo].[SP1001ByISBN]    Script Date: 03/13/2012 00:19:45 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+CREATE PROCEDURE [dbo].[SP1001ByISBN] (@ISBN NVARCHAR(13))
+AS
+BEGIN
+	SELECT * FROM BookRegister
+	WHERE ISBN = @ISBN;
+END
+
+
+GO
+

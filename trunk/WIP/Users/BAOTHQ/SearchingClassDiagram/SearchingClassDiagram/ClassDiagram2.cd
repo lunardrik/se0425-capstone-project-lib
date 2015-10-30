@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SearchingClassDiagram.DAO.SearchBookDAO">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAkAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAO\SearchBookDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SearchingClassDiagram.DAO.SearchUserDAO">
+    <Position X="3.25" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAABAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>DAO\SearchUserDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SearchingClassDiagram.DAO.SearchRentalDAO">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>DAO\SearchRentalDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SearchingClassDiagram.DAO.SearchRequestDAO">
+    <Position X="0.5" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQAQAAAAAA=</HashCode>
+      <FileName>DAO\SearchRequestDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

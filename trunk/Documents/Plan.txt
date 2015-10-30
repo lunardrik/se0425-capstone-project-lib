@@ -1,0 +1,44 @@
+﻿Coding
+App:	- (x)bắt tất cả các lỗi hệ thống phun ra, alert với user (và lưu các hành động của user và database)
+	- (x) Coding giấu các tab, chỉ hiện ra khi cần thiết.
+	- code chức năng report
+		+ (x)Stores: QuanLM60209 (Group By)
+			= Tổng số sách có trong hệ thống / Số sách được nhập trong (tháng/năm) / Số sách bị mất (năm/tháng) Deadline: Sat 07/04/2012
+			= Số lần mượn sách trong (tháng/năm) / số lần bị mất sách / số lần trả / (-)số lần bị trễ hạn (chưa trả) Deadline: Sat 07/04/2012
+			= Top những tựa sách / Thể loại được mượn nhiều nhất (bar chart, thể hiện so sánh giữa các thể loại). Deadline: Sat 07/04/2012
+			= Report những user (mượn sách nhiều nhất / đang trễ hạn) : Deadline: 07/04/2012
+		+ (x)Features: QuanLM60209
+			= Xuất báo cáo như user đã chọn Deadline: Mon 09/04/2012
+
+	- (x) Code chức năng tự gửi mail thông báo đến những user đang trễ hạn sách: BaoTHQ60006 Deadline: Sat 07/04/2012
+	- (x) Code chức năng auto notifier thông báo khi có request mới: DiepTN60128 Deadline: Sat 07/04/2012
+	- (-) Code chức năng FirstTimeUsing and EditOptions: PhuNH60177 Deadline: Sat 07/04/2012
+	
+
+Web:	- (x) thêm chức năng đăng ký sách lên hệ thống: QuanLM60209 Deadline: Tue 03/04/2012
+	- (x) thêm các chức năng giới thiệu sách ngẫu nhiên: QuanLM60209 Deadline: Thu 05/04/2012
+	- (x) thêm chức năng hiển thị tình trạng mượn của 1 user: QuanLM60209 Deadline: Thu 05/04/2012
+		+ (x)Thêm Ajax load phân trang cho mấy trạng thái sách (50%)
+	
+
+
+Report 6
+
+Manual:
+	+ Phân hệ mượn trả: DiepTN60128 - Deadline: Mon 09/04/2012
+	+ Phân hệ quản lý:
+		- Quản lý sách: PhuNH60177 - Deadline: Wed 11/04/2012
+		- Quản lý user: DiepTN60128 - Deadline: Wed 11/04/2012
+		- Quản lý hệ thống: PhuNH60177 - Deadline: Wed 11/04/2012
+	+ Phân hệ tìm kiếm: BaoTHQ60006 - Deadline: Sat 07/04/2012
+	+ Phân hệ OPAC: BaoTHQ60006 - Deadline: Wed 11/04/2012
+	+ Phân hệ báo cáo: QuanLM60209 - Deadline: Wed 11/04/2012
+
+DATABASE:
+	+ (x)Tạo filegroup cho database: QuanLM60209 Deadline: Tue 03/04/2012
+	+ (x)Partion database: QuanLM60209 Deadline: Tue 03/04/2012
+	+ Viết doc cho partitioning database, bổ sung vào detail design: QuanLM60209 Deadline: Thu 05/04/2012
+
+Old Documents
+	+ update lại class diagram - của detail design: QuanLM60209 Deadline: Sat 14/04/2012
+	+
